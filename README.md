@@ -1,12 +1,12 @@
-# 🎓 Student Registration Form – ASP.NET MVC App
+# 🎓 Student Registration Form – ASP.NET Web
 
-This is a web-based **Student Registration System** built using **ASP.NET MVC** and **SQL Server**. The application allows users to register student details and manage the data through a simple interface.
+This is a web-based **Student Registration System** built using **ASP.NET Web** and **SQL Server**. The application allows users to register student details and manage the data through a simple interface.
 
 ---
 
 ## 🛠 Technologies Used
 
-- **ASP.NET MVC** – Framework for creating the web application using Model-View-Controller architecture.
+- **ASP.NET web** – Framework for creating the web application.
 - **Entity Framework** – ORM (Object Relational Mapper) used to interact with SQL Server.
 - **SQL Server** – Database used to store registered student data.
 - **Razor View Engine** – For creating dynamic HTML content.
